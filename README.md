@@ -11,10 +11,8 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 - 🎓 B.Tech in Data Science and Artificial Intelligence at IIIT Bangalore
 - 🤖 Interested in AI, Machine Learning and Computer Vision
-- 💻 Solving DSA and Competitive Programming problems
-- 🔭 Currently working on Fine-Grained Emotion Recognition in Videos
-- 🌱 Learning Deep Learning, Multimodal AI and LLMs
-- ⚡ Fun fact: I enjoy turning research papers into practical projects
+- 🌱 Learning Deep Learning, Agentic AI and LLMs
+- ⚡ Fun fact: I am a district level tennis player
 
 ---
 
