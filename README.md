@@ -22,7 +22,7 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-ekambaranath-16b910356/" target="blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="35" height="35"/>
 </a>
 <a href="https://leetcode.com/u/varun_coder_topper/" target="blank">
   <img align="center" src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="35" width="35" />
