@@ -37,9 +37,8 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/varungodcp1234" target="blank">
-<img align="center" src="https://img.shields.io/badge/-Codeforces-445F9D?style=flat&logo=codeforces&logoColor=white" alt="codeforces" height="35" />
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeforces/codeforces-plain.svg" alt="codeforces" height="35" width="35" />
 </a>
-</p>
 ---
 
 ## 🛠️ Languages and Tools
