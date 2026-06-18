@@ -19,7 +19,6 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ## 🌐 Connect With Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-ekambaranath-16b910356/" target="blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="35" height="35"/>
