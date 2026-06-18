@@ -40,6 +40,7 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 <img align="center" src="https://img.shields.io/badge/-Codeforces-445F9D?style=flat&logo=codeforces&logoColor=white" alt="codeforces" height="35" />
 </a>
 </p>
+
 ---
 
 ## 🛠️ Languages and Tools
