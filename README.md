@@ -22,21 +22,22 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ## 🌐 Connect With Me
 
+
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-ekambaranath-16b910356/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/varun75971" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="35" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/varun_coder_topper/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" alt="leetcode" height="30" width="40" />
-</a>
+<img align="center" src="https://cdn.simpleicons.org/leetcode/F89F1B" alt="leetcode" height="35" width="35" />
+</a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/varungodcp1234" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codeforces.svg" alt="codeforces" height="30" width="40" />
+<img align="center" src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="codeforces" height="35" width="35" />
 </a>
 </p>
 ---
