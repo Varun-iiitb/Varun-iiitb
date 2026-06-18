@@ -22,10 +22,13 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ## 🌐 Connect With Me
 
-
 <p align="left">
 <a href="https://www.linkedin.com/in/varun-ekambaranath-16b910356/" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="35" height="35" align="center"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/varun75971" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram" width="35" height="35" align="center"/>
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/varun_coder_topper/" target="_blank">
@@ -36,7 +39,6 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 <img src="https://cdn.simpleicons.org/codeforces" width="35" height="35" align="center"/>
 </a>
 </p>
-
 ---
 
 ## 🛠️ Languages and Tools
