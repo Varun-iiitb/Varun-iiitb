@@ -13,7 +13,7 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 - 🤖 Interested in AI, Machine Learning and Computer Vision
 - 👨‍💻 All of my projects are available at [Varun-iiitb](https://github.com/Varun-iiitb)
 - 🌱 Learning Deep Learning, Agentic AI and LLMs
-- 📫 How to reach me **[var3907@gmail.com](mailto:var3907@gmail.com)**
+- 📫 How to reach me [var3907@gmail.com](mailto:var3907@gmail.com)**
 - ⚡ Fun fact: I am a district level tennis player
 ---
 
