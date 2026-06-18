@@ -19,13 +19,16 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ## 🌐 Connect With Me
 
-<p>
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/varun-ekambaranath-16b910356/)">LinkedIn</a>.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/varun-ekambaranath-16b910356/)" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/linkedin" alt="linkedin" height="35" width="35" />
+</a>
 <a href="https://leetcode.com/u/varun_coder_topper/" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="35" width="35" />
 </a>
 <a href="https://codeforces.com/profile/varungodcp1234" target="blank">
-<img align="center" src="https://cdn.simpleicons.org/codeforces" alt="codeforces" height="30" width="40" />
+  <img align="center" src="https://cdn.simpleicons.org/codeforces" alt="codeforces" height="35" width="35" />
 </a>
 </p>
 
