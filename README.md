@@ -17,6 +17,20 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 - ⚡ Fun fact: I am a district level tennis player
 ---
 
+## 🌐 Connect With Me
+
+<p>
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/varun-ekambaranath-16b910356/)">LinkedIn</a>.
+<a href="https://leetcode.com/u/varun_coder_topper/" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/leetcode" alt="leetcode" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/varungodcp1234" target="blank">
+<img align="center" src="https://cdn.simpleicons.org/codeforces" alt="codeforces" height="30" width="40" />
+</a>
+</p>
+
+---
+
 ## 🛠️ Languages and Tools
 
 <p>
@@ -35,14 +49,6 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ---
 
-## 🌐 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-</p>
-
----
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
