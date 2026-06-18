@@ -7,6 +7,9 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ---
 
+![](https://komarev.com/ghpvc/?username=Varun-iiitb&color=blue)
+
+
 ## 🚀 About Me
 
 - 🎓 B.Tech in Data Science and Artificial Intelligence at IIIT Bangalore
@@ -67,4 +70,3 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
