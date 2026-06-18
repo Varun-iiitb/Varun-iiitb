@@ -11,9 +11,10 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 - 🎓 B.Tech in Data Science and Artificial Intelligence at IIIT Bangalore
 - 🤖 Interested in AI, Machine Learning and Computer Vision
+- 👨‍💻 All of my projects are available at [Varun-iiitb](https://github.com/Varun-iiitb)
 - 🌱 Learning Deep Learning, Agentic AI and LLMs
+- 📫 How to reach me [var3907@gmail.com](var3907@gmail.com)
 - ⚡ Fun fact: I am a district level tennis player
-
 ---
 
 ## 🛠️ Languages and Tools
