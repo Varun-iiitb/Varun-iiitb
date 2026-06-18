@@ -22,30 +22,19 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ## 🌐 Connect With Me
 
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/varun-ekambaranath-16b910356/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
-         alt="linkedin"
-         width="35"
-         height="35"
-         style="vertical-align: middle; margin-right: 12px;">
-  </a>
+<a href="https://www.linkedin.com/in/varun-ekambaranath-16b910356/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="35" height="35" align="center"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/varun_coder_topper/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/leetcode"
-         alt="leetcode"
-         width="35"
-         height="35"
-         style="vertical-align: middle; margin-right: 12px;">
-  </a>
+<a href="https://leetcode.com/u/varun_coder_topper/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" width="35" height="35" align="center"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/varungodcp1234" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.simpleicons.org/codeforces"
-         alt="codeforces"
-         width="35"
-         height="35"
-         style="vertical-align: middle;">
-  </a>
+<a href="https://codeforces.com/profile/varungodcp1234" target="_blank">
+<img src="https://cdn.simpleicons.org/codeforces" width="35" height="35" align="center"/>
+</a>
 </p>
 
 ---
