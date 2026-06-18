@@ -19,7 +19,7 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 ## 🛠️ Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,tensorflow,pytorch,opencv,git,github,mysql,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,opencv,git,github,mysql,vscode" />
 </p>
 
 ---
