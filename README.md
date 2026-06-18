@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech DSAI Student @ IIIT Bangalore</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Data Science and Competitive Programming.
+Passionate about Artificial Intelligence, Machine Learning and Data Science.
 </p>
 
 ---
