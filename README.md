@@ -34,19 +34,6 @@ Passionate about Artificial Intelligence, Machine Learning and Data Science.
 
 ---
 
-## 🏆 Featured Projects
-
-### 👻 GhostHunter
-AI-powered maritime intelligence and reconnaissance system.
-
-### 😊 Fine-Grained Emotion Detection
-Multimodal emotion recognition from videos using audio, facial and contextual cues.
-
-### 📈 Smart Stock Portfolio Manager
-JavaFX + Flask application for portfolio tracking and analysis.
-
----
-
 ## 🌐 Connect With Me
 
 <p>
